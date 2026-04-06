@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sistema de Monitoramento - Padrões de Desenvolvimento de Software
 
 ## Descrição do Projeto
