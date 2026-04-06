@@ -1,0 +1,18 @@
+﻿git : remote: error: Trace: 
+9b66339256ba4754b0d9535452a97f2810c174ccaf3b1ffd98bcff448d240d8d        
+No linha:1 caractere:107
++ ... e Desenvolvimento de Software (1)"; git push origin main 2>&1 | Out-F ...
++                                         ~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: error: ...d240d8d         
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File js/oracleJdk-25.jdk/Contents/Home/lib/modules is 135.16 
+MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File 
+Storage - https://git-lfs.github.com.        
+To https://github.com/BrunoSilveira100/Sistema-de-Monitoramento.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 
+'https://github.com/BrunoSilveira100/Sistema-de-Monitoramento.git'

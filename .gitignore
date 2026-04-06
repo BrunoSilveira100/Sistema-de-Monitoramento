@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/
+js/oracleJdk-25.jdk/
+.idea/
+*.log
+*.tmp
+*.bak
