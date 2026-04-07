@@ -1,5 +1,5 @@
 # Sistema de Monitoramento - Padrões de Desenvolvimento de Software
-
+<img width="1897" height="869" alt="image" src="https://github.com/user-attachments/assets/af8f69eb-1491-4808-a86f-9b3d2940d50b" />
 ## Descrição do Projeto
 
 Este projeto implementa um sistema de monitoramento que demonstra o uso de dois padrões de desenvolvimento de software fundamentais: **Singleton** e **Factory Method**. O sistema simula a criação de recursos em diferentes provedores de nuvem (AWS e Azure) com um gerenciador de logs centralizado.
